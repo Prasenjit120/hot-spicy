@@ -1,0 +1,33 @@
+/*********************TAG SELECTORS************************/
+body{
+  color: black;
+  background-color: #4B3869;
+}
+h2{
+  color: white;
+  font-size: 30px;
+}
+p{
+  color: #90AACB;
+}
+img{border-radius: 4%;}
+/*******************************CLASS SELECTORS*************************/
+
+.tandoori{
+  width: 600px;
+}
+.momo{
+  width: 600px;
+}
+/*******************************ID SELECTORS*************************/
+#hot{
+  color: gold;
+  font-size: 60px;
+  font-family: Copperplate, papyrus, fantasy;
+}
+#hot:hover{
+  color: white;
+font-size: 60px;
+font-family: Copperplate, papyrus, fantasy;
+
+}
